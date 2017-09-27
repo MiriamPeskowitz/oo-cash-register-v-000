@@ -31,7 +31,8 @@ class CashRegister
 end
 
 
-=beginclass CashRegister
+=begin
+class CashRegister
 
   attr_accessor :items, :discount, :total, :last_transaction
 
